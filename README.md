@@ -10,6 +10,6 @@
 La Fusion de los fichero 1 de cada respositorio local:
 ![fusionFicheros1](https://github.com/CaineeE/PracticaGitEntornos/assets/135532325/10b6c4c2-4f91-464e-a89f-2ff27bb0eb8e)
 Eclipse-Git:
-
-![eclipseGit](https://github.com/CaineeE/PracticaGitEntornos/assets/135532325/78287cdc-8027-4636-a5df-5d2ecf2f412e)
+![push](https://github.com/CaineeE/PracticaGitEntornos/assets/135532325/6095563e-26ae-4b80-b8b6-3427532173e7)
+![resultadopush](https://github.com/CaineeE/PracticaGitEntornos/assets/135532325/788269fa-bb66-41c9-a2ef-7e298656e9a9)
 
