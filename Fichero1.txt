@@ -1,3 +1,7 @@
 Primera linea
 Segunda linea Modificada Elias
+<<<<<<< HEAD
 Otra modificacion mas //Otro
+=======
+Otra modificacion del mismo fichero//Elias
+>>>>>>> 58cef602c84e4fc92da3b42af5141e4cc36d1411
